@@ -1,4 +1,4 @@
 # cgu
 This is my first Git Repository.
 <br>
-Author - Raj Aryan
+Author - Raj Kumar
